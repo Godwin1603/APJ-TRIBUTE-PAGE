@@ -1,0 +1,24 @@
+*{background-color:#00FA9A;}
+.header{
+    text-align: center;
+}
+.about{
+    color: black;
+    text-align: center;
+    text-shadow: 5px 5px 5px white;
+}
+.content{
+    color: black;
+    text-align: center;
+    width: 700px;
+    height: 850px;
+    box-sizing:border-box ;
+    box-shadow: 3px 3px 3px 5px #98FB98;
+    margin-left:25%;
+    padding-bottom: 20px;
+    
+}
+.end{text-align: center;
+    
+
+    }
